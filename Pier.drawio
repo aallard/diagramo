@@ -1,1 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T19:23:42.733Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.9" etag="xGFnDhphTekWFB-kzyAO" type="github"><diagram id="n2ZAAcIl0zXlTikGjxRB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-03T20:11:40.885Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="x8pG1yamLzJE775j4WzR" version="13.8.9" type="github">
+  <diagram id="n2ZAAcIl0zXlTikGjxRB" name="Page-1">
+    <mxGraphModel dx="689" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qWIiNFZrO9vMhx5O5uXj-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="510" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qWIiNFZrO9vMhx5O5uXj-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="315" y="370" width="60" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qWIiNFZrO9vMhx5O5uXj-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qWIiNFZrO9vMhx5O5uXj-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWIiNFZrO9vMhx5O5uXj-3" value="12&quot; diameter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="340" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qWIiNFZrO9vMhx5O5uXj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=130;entryDy=40;entryPerimeter=0;" edge="1" parent="1" source="qWIiNFZrO9vMhx5O5uXj-4" target="qWIiNFZrO9vMhx5O5uXj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qWIiNFZrO9vMhx5O5uXj-4" value="12&quot; x 24&quot; x 24&quot; Concrete Footing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="540" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qWIiNFZrO9vMhx5O5uXj-7" value="Concrete Pier Construction Detail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qWIiNFZrO9vMhx5O5uXj-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qWIiNFZrO9vMhx5O5uXj-9" value="Varying height depending on grade at pier location" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="420" width="80" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
